@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project was made as part of Marcy Lab School's Lead Instructor interview process. This is a simple CRUD app that helps you keep track of your pets. This app aheres to the following [requirements](https://github.com/The-Marcy-Lab-School/lead-instructor-take-home-challenge).
+This project was made as part of Marcy Lab School's Lead Instructor interview process. This is a simple CRUD app that helps you keep track of your pets. This app adheres to the following [requirements](https://github.com/The-Marcy-Lab-School/lead-instructor-take-home-challenge).
 
 **Tech Stack:** JavaScript, React, Express, Node.js, and MongoDB.
 
