@@ -1,12 +1,14 @@
 # Marcy Pet Tracker
-![Project Image](screenshots/main-app1.png)
+![Project Image](screenshots/main-app2.png)
 ![Project Image](screenshots/edit-form.png)
 ![Project Image](screenshots/accessibility-scores1.png)
 ![Project Image](screenshots/system-outline.png)
 
 ## Overview
 
-This project was made as part of Marcy Lab School's Lead Instructor interview process. This is a simple CRUD app that helps you keep track of your pets. This app aheres to the following [requirements](https://github.com/The-Marcy-Lab-School/lead-instructor-take-home-challenge). **Tech Stack:** JavaScript, React, Express, Node.js, and MongoDB.
+This project was made as part of Marcy Lab School's Lead Instructor interview process. This is a simple CRUD app that helps you keep track of your pets. This app aheres to the following [requirements](https://github.com/The-Marcy-Lab-School/lead-instructor-take-home-challenge).
+
+**Tech Stack:** JavaScript, React, Express, Node.js, and MongoDB.
 
 ### Step 1: Clone the repository
 
@@ -46,6 +48,6 @@ http://localhost:3000
 ```
 
 ### Areas I'd work on if I had more time
-• Improving the React app to have robust component structure
-• Overall nomenclature revamp
-• Making a global state store for easier access to state
+• Improving the React app to have robust component structure<br>
+• Overall nomenclature revamp<br>
+• Making a global state store for easier access
