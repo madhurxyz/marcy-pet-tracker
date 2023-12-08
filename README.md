@@ -1,5 +1,5 @@
 # Marcy Pet Tracker
-![Project Image](screenshots/main-app2.png)
+![Project Image](screenshots/main-app3.png)
 ![Project Image](screenshots/edit-form.png)
 ![Project Image](screenshots/accessibility-scores1.png)
 ![Project Image](screenshots/system-outline.png)
@@ -35,7 +35,7 @@ frontend:
 npm start
 ```
 
-### Step 4: Open the app on your local environment
+### Step 4: Open the app in your local environment
 
 server:
 ```bash
@@ -50,4 +50,6 @@ http://localhost:3000
 ### Areas I'd work on if I had more time
 • Improving the React app to have robust component structure<br>
 • Overall nomenclature revamp<br>
-• Making a global state store for easier access
+• Making a global state store for easier access<br>
+• Add image upload option via Cloudinary<br>
+• Deploy via Vercel<br>
