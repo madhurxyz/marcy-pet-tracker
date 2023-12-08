@@ -1,7 +1,7 @@
 # Marcy Pet Tracker
-![Project Image](screenshots/main-app.png)
+![Project Image](screenshots/main-app1.png)
 ![Project Image](screenshots/edit-form.png)
-![Project Image](screenshots/accessibility-scores.png)
+![Project Image](screenshots/accessibility-scores1.png)
 ![Project Image](screenshots/system-outline.png)
 
 ## Overview
